@@ -1,3 +1,5 @@
+[Coursera link](https://www.coursera.org/learn/introduction-tensorflow)
+
 ## Direct links to open notebooks in Colab
 
 ---
