@@ -4,8 +4,6 @@
 
 ## Direct links to open notebooks in Colab
 
----
-
 ### Week 1
 
 - [01 - Hello world](https://colab.research.google.com/github/hummingbird-12/tensorflow-study/blob/main/Course%201/W1-01-Hello_world.ipynb)
